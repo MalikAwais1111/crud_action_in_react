@@ -1,2 +1,2 @@
-# crud_action_in_react
- making a blogs website with crud options
+# Crud_Using_React
+ SImple crud operations in react and designed with mui
